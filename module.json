@@ -3,7 +3,7 @@
     "name": "dcc-pt-BR",
     "title": "DCC Tradução PT-BR",
     "description": "Tradução do jogo DCC RPG para o português brasileiro.",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "minimumCoreVersion" : "0.8.9",
     "compatibleCoreVersion":"10",
     "author": "rRickers",
