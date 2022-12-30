@@ -1,19 +1,19 @@
 
 {
-    "name": "dcc-pt",
-    "title": "DCC Dungeon Crawl Classics game system portuguese Translation",
-    "description": "Tradução do jogo DCC RPG para o Português.",
+    "name": "dcc-ptbr",
+    "title": "DCC Dungeon Crawl Classics tradução do sistema para português brasileiro",
+    "description": "Tradução do jogo DCC RPG para o português brasileiro.",
     "version": "0.1.1",
     "minimumCoreVersion" : "0.8.9",
     "compatibleCoreVersion":"10",
     "author": "rRickers",
     "systems": ["dcc"],   
     "languages": [{
-      "lang": "pt",
-      "name": "Português",
-      "path": "pt.json"
+      "lang": "ptbr",
+      "name": "Português brasileiro",
+      "path": "ptbr.json"
     }],
-    "url": "https://github.com/rRickers/foundry-dcc-pt",
-    "manifest": "https://github.com/rRickers/foundry-dcc-pt/raw/main/module.json",
-    "download": "https://github.com/rRickers/foundry-dcc-pt/archive/main.zip"
+    "url": "https://github.com/rRickers/foundry-dcc-ptbr",
+    "manifest": "https://github.com/rRickers/foundry-dcc-ptbr/raw/main/module.json",
+    "download": "https://github.com/rRickers/foundry-dcc-ptbr/archive/main.zip"
   }
